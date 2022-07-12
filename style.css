@@ -20,3 +20,41 @@ color: #FF589B;
     border-radius: 40px;
     text-decoration: none;
 }
+.cat1, .cat2, .cat3 {
+    padding: 10px 25px;
+    border-radius: 40px;
+} 
+.cat1{
+    background-image: linear-gradient(rgb(235, 157, 14), rgb(216, 185, 12));
+  
+}
+.cat2{
+    background-image: linear-gradient(rgb(211, 47, 197), rgb(198, 17, 243));
+  
+}
+.cat3{
+    background-image: linear-gradient(rgb(75, 41, 168), rgb(48, 34, 255));
+  
+}
+.categories h1{
+    color: azure; 
+}
+.categories img{
+    width: 120px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightslategray ;
+    border-radius: 60px;
+}
+
+#Sub{
+    height: 200px;
+}
+#Sub h6{
+    color: rgb(143, 153, 153);
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
